@@ -1,5 +1,5 @@
 # GIT Workshop
-
+ 
 ## History[<sup>1</sup>](#references)
 
 Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development. Since 2005, Junio Hamano has been the core maintainer.
@@ -45,7 +45,7 @@ $ git config --global -e
 
 ## Branching[<sup>5,6</sup>](#references)
 
-There are several branching strategies, but we'll briefly see the basics of Gitflow since it's the most popular.
+There are several b ranching strategies, but we'll briefly see the basics of Gitflow since it's the most popular.
 
 - `main` (or `master): We consider origin/master to be the main branch where the source code of HEAD always reflects a production-ready state.
 - `develop`: We consider origin/develop to be the main branch where the source code of HEAD always reflects a state with the latest delivered development changes for the next release.
